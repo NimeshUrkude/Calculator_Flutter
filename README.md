@@ -1,6 +1,6 @@
 # Calculator
 
-This Repository is Calculator App build on Flutter.
+This repository is a Calculator App build on Flutter. It provides a simple and elegant user interface to perform basic mathematical operations. It supports addition, subtraction, multiplication, and division operations. All the code is open source and can be accessed from github. The repository also contains a detailed guide on how to install and use the app. This app is a great way to get started with Flutter and learn how to develop a basic app.
 
 Apk Link : https://drive.google.com/file/d/1nYDaNSzaAuz4NhoT6USWah_LIxbkIlVa/view
 
